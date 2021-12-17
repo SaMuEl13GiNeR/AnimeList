@@ -2,7 +2,7 @@
 
 \*\*\*\***\*\*\***\*\*\*\***\*\*\*\***\*\*\*\***FUNCIONAMENT**\*\*\*\***\*\*\*\***\*\*\*\***\*\*\*\***\*\*\*\*
 
-L'aplicació serveix per a anotar el seguiment d'Animes, de tal forma que si estas vegent diferents animes al mateix temps podes saber per quin capítol t'has quedat en cada un d'ells.
+L'aplicació serveix per anotar el seguiment d'Animes, de tal forma que si estas vegent diferents animes al mateix temps podes saber per quin capítol t'has quedat en cada un d'ells.
 També pots veure en l'apartat general diferents animes que pots tindre o no en la teua propia llista, de forma que serveix com a recomanació ja que están ordenat per popularitat (l'ordre l'he tret d'una altra pàgina que té una base de dades amb tots els animes existents ordenats de diferents formes).
 Cada usuari té una llita d'anime (manga en un futur) en el que pots veure els animes que estas vegent, els que tens en "pendent per a veure", els que has deixat de veure (abandonats) i els que ja has acabat.
 
